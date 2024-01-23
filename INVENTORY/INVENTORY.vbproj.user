@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="SCREEN\Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SCREEN\Loginform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SCREEN\SaleInfo\SaleInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SCREEN\SELL\SellItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SCREEN\SPLASH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SCREEN\StockScreen\AddStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SCREEN\User\Registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
